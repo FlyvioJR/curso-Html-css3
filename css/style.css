@@ -1,3 +1,43 @@
 body{
     background: rgb(81, 96, 224);
+    margin-left: 30px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+h1{
+    color: yellow;
+    font-family: cursive;
+}
+
+h2{
+    color: turquoise;
+    font-family: monospace;
+}
+
+p{
+    font-size: large;
+}
+
+#paragrafo-serviços{
+    margin-right: 190px;
+}
+
+img{
+    width: 500px;
+    height: 333px;
+    margin-bottom: 5px;
+}
+
+.img_contato{
+    width: 200px;
+    height: 120px;
+    margin-bottom: -20px;
+}
+
+footer{
+    margin-top: 200px;
+    margin-bottom: 30px;
 }
